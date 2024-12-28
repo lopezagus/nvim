@@ -1,0 +1,26 @@
+# Swap files
+*.swp
+
+# Undo history files
+*.undo
+
+# Backup files
+*.backup
+
+# Netrw history
+.netrwhist
+
+# Session files
+session.vim
+
+# Lazy.nvim or Packer-related cache
+plugin/packer_compiled.lua
+lazy-lock.json
+
+# Logs
+*.log
+
+# Operating system specific files
+.DS_Store
+Thumbs.db
+
