@@ -33,7 +33,9 @@ return {
         "eslint",
         "html",
         "cssls",
+        "ts_ls",
       },
+      automatic_installation = true,
     })
 
     mason_tool_installer.setup({
